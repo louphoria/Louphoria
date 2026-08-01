@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Lou 🌿 ## 
 
-<!--
-**louphoria/Louphoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Creative technologist working across AI, UX design, strategy and content architecture. I move between disciplines to own products end-to-end — that's where I do my best work.
 
-Here are some ideas to get you started:
+### What I offer ###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Bespoke AI agents and brand intelligence systems
+- UX and product design for AI-native experiences
+- Agentic commerce and retail infrastructure
+- Tech and event activations
+- Strategy and creative direction across technology and storytelling
+
+### Selected projects ###
+
+- [Louphoria](https://www.louphoria.com/) : Creative tech studio for AI-native brand experiences.: product and commerce design, AI for live events, and agentic infrastructure 
+
+- [Jenna AI](https://www.louphoria.com/) : Agentic commerce for luxury fashion. Bespoke AI agents trained on a brand's creative history and knowledge, plus agentic infrastructure and event activations for designer labels.
+
+### Get in touch ###
+
+📧 hello@louphoria.com
+
+🔗 [LinkedIn](https://www.linkedin.com/in/lucca-elwood/)
