@@ -12,7 +12,7 @@ Creative technologist working across AI, UX design, strategy and content archite
 
 ### Selected projects ###
 
-- [Louphoria](https://www.louphoria.com/) : Creative tech studio for AI-native brand experiences.: product and commerce design, AI for live events, and agentic infrastructure 
+- [Louphoria](https://www.louphoria.com/) : Creative tech studio for AI-native brand experiences – product and commerce design, AI for live events, and agentic infrastructure 
 
 - [Jenna AI](https://www.louphoria.com/) : Agentic commerce for luxury fashion. Bespoke AI agents trained on a brand's creative history and knowledge, plus agentic infrastructure and event activations for designer labels.
 
