@@ -1,6 +1,7 @@
 ## Hi, I'm Lou 🌿 ## 
 
-Creative technologist working across AI, UX design, strategy and content architecture. I move between disciplines to own products end-to-end — that's where I do my best work.
+Creative technologist working across AI + UX design, Strategy and Content Architecture. 
+I move between disciplines to own products end-to-end — that's where I do my best work.
 
 ### What I offer ###
 
